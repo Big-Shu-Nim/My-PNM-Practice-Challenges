@@ -7,5 +7,5 @@ are gone.
 
 So I decided to practice 30mintes everyday:
 
-    1. The things I learned in the past for manipulating datasets(since 2022.02.25)
+    1. The things I learned in the past for manipulating datasets(2021.10.01~12.20)
     2. I will upload next learning material later(?)
